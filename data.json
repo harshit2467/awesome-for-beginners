@@ -703,6 +703,15 @@
             "description": "An open-source screen recorder built with web technology"
         },
         {
+            "name": "pythonping",
+            "link": "https://github.com/alessandromaggio/pythonping",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell."
+        },
+        {
             "name": "Reddit Enhancement Suite",
             "link": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
             "label": "help-wanted",
